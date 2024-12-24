@@ -1,6 +1,6 @@
 # Chasm-Network
 
-> Yarın uçuyorum haliyle repo paylaşamazdım, puandan geri kalmamanız için gece atıyorum üzgünüm.
+> Yarın uçuyorum haliyle repo paylaşamazdım, puandan geri kalmamanız için gece atıyorum üzgünüm..
 
 #
 
